@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Hao-yiwen
-- 👀 I’m interested in running
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on interesting people
+- 👀 I’m interested in web,java,android,ios,reactNative and flutter,I wanted to be a full-stack developer.
 - 📫 How to reach me 1552975589@qq.com
 
 <!---

@@ -8,6 +8,4 @@
 ### Github Status
 ![](https://github-readme-stats.vercel.app/api?username=Hao-yiwen&theme=gruvbox) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hao-yiwen&theme=dracula) 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hao-yiwen&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hao-yiwen&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hao-yiwen&theme=dracula)

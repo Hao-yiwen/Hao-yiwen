@@ -28,7 +28,6 @@
 | **OS**                | <a target="_blank" rel="noopener noreferrer" href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple&logoColor=white" alt="macOS" style="max-width: 100%;"></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ### 📈 GitHub Activity Graph:
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 | .                                                                                                                                                 | .                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -41,6 +40,13 @@
 <!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Hao-yiwen" width="auto"></img> -->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+**📫 How to Reach me:**
+<p align="left">
+<a href="mailto:yiwenlemo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+</p>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ## Star History
 

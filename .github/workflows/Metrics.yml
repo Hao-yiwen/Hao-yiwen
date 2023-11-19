@@ -55,4 +55,3 @@ jobs:
           plugin_topics: yes  # плагин ипсользуемых тем
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          

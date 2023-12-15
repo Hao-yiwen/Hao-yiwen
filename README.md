@@ -44,5 +44,5 @@
 <a href="mailto:yiwenlemo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<!-- <img src="/github-metrics.svg" alt="Metrics" width="100%"> -->
 

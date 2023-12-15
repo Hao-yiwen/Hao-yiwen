@@ -1,4 +1,7 @@
-![](assets/Bottom_up.svg)
+<!--   my-header-img -->
+
+![](./src/header_.png)
+<a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="right" height="48" width="48"></a>
 
 <p align="center">
     <a href="https://github.com/Hao-yiwen/Hao-yiwen"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -7,11 +10,6 @@
     <a href="https://github.com/Hao-yiwen/Hao-yiwen/network/members"><img src="https://img.shields.io/github/forks/Hao-yiwen/Hao-yiwen.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Hao-yiwen.Hao-yiwen" alt="visitors"/>   
 </p>
-
-<!--   my-header-img -->
-
-![](./src/header_.png)
-<a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="right" height="48" width="48"></a>
 
 <!--   my-ticker -->
 
@@ -47,14 +45,4 @@
 </p>
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Hao-yiwen/Hao-yiwen&type=Date)](https://star-history.com/#Hao-yiwen/Hao-yiwen&Date)
-
-### Profile Views
-
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@Hao-yiwen.github.readme)
 

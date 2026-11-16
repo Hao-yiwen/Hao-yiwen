@@ -25,13 +25,26 @@
 | **Databases**         | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white" style="max-width: 100%;">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **OS**                | <a target="_blank" rel="noopener noreferrer" href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple&logoColor=white" alt="macOS" style="max-width: 100%;"></a>                                                                                                                                                                                                                                                                                                                                                                                             |
 
-### 📈 GitHub Activity Graph:
+### 📈 GitHub Activity Graph
 
-| .                                                                                                                                                 | .                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![Hao-yiwen's github stats](https://github-readme-stats.vercel.app/api?username=Hao-yiwen&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-yiwen&theme=radical&layout=compact) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=Hao-yiwen&show_icons=true&theme=radical&include_all_commits=true" alt="Hao-yiwen's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hao-yiwen&theme=radical&layout=compact" alt="Hao-yiwen's top languages" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao-yiwen"></img>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hao-yiwen&theme=radical" alt="Hao-yiwen's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hao-yiwen&theme=radical" alt="Hao-yiwen's GitHub activity graph" />
+</p>
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 

@@ -27,23 +27,18 @@
 
 ### 📈 GitHub Activity Graph
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=Hao-yiwen&show_icons=true&theme=radical&include_all_commits=true" alt="Hao-yiwen's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hao-yiwen&theme=radical&layout=compact" alt="Hao-yiwen's top languages" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hao-yiwen&theme=radical" alt="Hao-yiwen's GitHub streak" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Hao-yiwen&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&hide=contribs&border_radius=10" alt="Hao-yiwen's GitHub stats" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hao-yiwen&theme=radical&layout=compact&langs_count=8&hide_border=true&hide=jupyter%20notebook,html,css&border_radius=10" alt="Hao-yiwen's top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hao-yiwen&theme=radical" alt="Hao-yiwen's GitHub activity graph" />
+  <img src="https://streak-stats.demolab.com/?user=Hao-yiwen&theme=radical&hide_border=true" alt="Hao-yiwen's GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=Hao-yiwen&theme=radical&hide_border=true&area=true&radius=10&height=280&days=30&custom_title=Hao-yiwen%27s%20Contribution%20Graph" alt="Hao-yiwen's GitHub activity graph" />
 </p>
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->

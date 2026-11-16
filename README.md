@@ -37,10 +37,6 @@
   <img src="https://streak-stats.demolab.com/?user=Hao-yiwen&theme=radical&hide_border=true" alt="Hao-yiwen's GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=Hao-yiwen&theme=radical&hide_border=true&area=true&radius=10&height=280&days=30&custom_title=Hao-yiwen%27s%20Contribution%20Graph" alt="Hao-yiwen's GitHub activity graph" />
-</p>
-
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Hao-yiwen" width="auto"></img> -->
